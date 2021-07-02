@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Andre\Desktop\Project 3 - Lunar Lander\main.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+  SDLProject.vcxproj -> C:\Users\Andre\Desktop\Project 3 - Lunar Lander\Debug\Project 3 - Lunar Lander.exe
