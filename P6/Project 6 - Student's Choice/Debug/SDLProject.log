@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project 3 - Lunar Lander.vcxproj, Project 4 - Rise of the AI.vcxproj, Project 5 - Platformer.vcxproj, SDLProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Level2.cpp
+  main.cpp
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\Andre\Desktop\Project 6 - Student's Choice\Debug\Project 6 - Student's Choice.exe
