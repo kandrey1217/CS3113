@@ -1,5 +1,16 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project 3 - Lunar Lander.vcxproj, Project 4 - Rise of the AI.vcxproj, Project 5 - Platformer.vcxproj, SDLProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Entity.cpp
+  Level1.cpp
   Level2.cpp
+  Level3.cpp
   main.cpp
+  MainMenu.cpp
+  Map.cpp
+C:\Users\Andre\Desktop\CS3113\P6\Project 6 - Student's Choice\Map.cpp(91,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andre\Desktop\CS3113\P6\Project 6 - Student's Choice\Map.cpp(92,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+  ShaderProgram.cpp
+  Util.cpp
+C:\Users\Andre\Desktop\CS3113\P6\Project 6 - Student's Choice\Util.cpp(29,19): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
-  SDLProject.vcxproj -> C:\Users\Andre\Desktop\Project 6 - Student's Choice\Debug\Project 6 - Student's Choice.exe
+  SDLProject.vcxproj -> C:\Users\Andre\Desktop\CS3113\P6\Project 6 - Student's Choice\Debug\Project 6 - Student's Choice.exe
